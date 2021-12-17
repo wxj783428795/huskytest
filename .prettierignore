@@ -1,0 +1,9 @@
+dist
+public
+*.html
+node_modules
+.DS_Store
+dist
+*.local
+node_modules/*
+.eslintcache
